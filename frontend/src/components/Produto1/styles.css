@@ -1,0 +1,20 @@
+.soltinho_fundo_p1 {
+  max-width: 170px;
+  flex-direction: row;
+  align-items: flex-end;
+  margin-top: -14px;
+  margin-left: 10px;
+}
+
+.container_fundo_p1 {
+  width: 20%;
+  margin-top: 0px;
+  position: absolute;
+  z-index: 2;
+
+}
+
+img {
+  box-sizing: border-box;
+  width: 100%;
+}

@@ -1,0 +1,16 @@
+.container_fundo_a {
+  max-width: 80%;
+  flex-direction: row;
+  align-items: flex-end;
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.container_minhaplanta {
+  width: 380px;
+  box-sizing: content-box;
+  margin-left: 280px;
+  margin-top: 130px;
+}

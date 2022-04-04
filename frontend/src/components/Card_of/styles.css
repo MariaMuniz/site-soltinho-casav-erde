@@ -1,0 +1,43 @@
+.container_ofertas_prod {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.container_of {
+  display: flex;
+  flex-direction: row;
+  margin-left: 110px;
+  margin-bottom: 20px;
+}
+
+.container_img_p {
+  margin-left: 30px;
+  width: 320px;
+  display: flex;
+  flex-direction: row;
+  background-color: aliceblue;
+  box-shadow: 8px 5px 5px rgb(192, 178, 178);
+}
+
+img {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.container_titulo {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container_subtitulo {
+  font-size: 60px;
+  font-weight: 900;
+  font-family: 'Elsie Swash Caps', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

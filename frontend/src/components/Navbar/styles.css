@@ -1,0 +1,71 @@
+.Container_pagina {
+  width: 99%;
+  position: absolute;
+  z-index: 1;
+}
+
+
+
+header {
+
+  height: 48.84px;
+  width: 80%;
+  margin-top: 10.16px;
+  margin-left: 200px;
+  margin-right: 10px;
+}
+
+
+.soltinho-nav-content {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+
+}
+
+
+
+
+
+
+.menu {
+  list-style: none;
+
+  float: left;
+  margin-left: 200px;
+  margin-right: 10px;
+  align-items: center;
+  margin-top: 5px;
+  ;
+}
+
+
+
+
+.menu li {
+  position: relative;
+  float: left;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #202020;
+}
+
+.menu li a {
+  color: #333;
+  text-decoration: none;
+  padding: 5px 10px;
+  display: block;
+}
+
+.menu li a:hover {
+  background: #333;
+  color: #fff;
+
+}
+
+.menu li:hover ul,
+.menu li.over ul {
+  display: block;
+}

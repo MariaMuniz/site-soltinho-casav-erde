@@ -1,0 +1,59 @@
+.soltinho_container {
+  width: 600px;
+
+  flex-direction: column;
+}
+
+.soltinho_texto {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  margin-left: 200px;
+  margin-top: 100px;
+
+  font-size: 22px;
+  color: #202020;
+  font-weight: 27px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.soltinho_texto_b {
+  width: 400px;
+  display: flex;
+  align-items: center;
+  margin-left: 200px;
+  font-family: 'Montserrat', sans-serif;
+
+  font-size: 16px;
+  color: #202020;
+  font-weight: 25px;
+  margin-top: 2px;
+}
+
+.soltinho_texto_c {
+  width: 20%;
+  margin-top: -5px;
+  font-size: 70px;
+  margin-left: 200px;
+  font-weight: 900;
+  font-family: 'Elsie Swash Caps', cursive;
+}
+
+.input {
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #f2f;
+  width: 10%;
+  border: 0;
+  margin: 0 0px 0 0px;
+  padding: 2px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.soltinho_img {
+  max-width: 580px;
+  display: flex;
+  align-items: center;
+
+}

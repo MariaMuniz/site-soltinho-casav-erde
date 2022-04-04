@@ -1,0 +1,14 @@
+.container_t {
+  flex-direction: row;
+}
+
+.soltinho_pg {
+  width: 100%;
+
+  flex-direction: row;
+  display: flex;
+}
+
+.soltinho_column {
+  flex-direction: column;
+}
